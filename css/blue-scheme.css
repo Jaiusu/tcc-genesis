@@ -10,13 +10,13 @@ http://www.templatemo.com/preview/templatemo_460_medigo
 	BASIC STYLES 
 --------------------------------------------------------*/
 body {
-  background: white;
+  background: #1a1a1a;
   font-size: 16px;
-  font-family: "PT Serif", Georgia, serif;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 28px;
-  color: #777777;
+  color: white;
   -webkit-font-smoothing: antialiased;
   /* Fix for webkit rendering */
   -webkit-text-size-adjust: 100%;
@@ -24,7 +24,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #31373a;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: normal;
 }
 
@@ -175,7 +175,7 @@ a, a:visited {
   top: 0;
   left: 0;
   width: 100%;
-  background: white;
+  background: #1a1a1a;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 3px;
   -moz-box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 3px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 3px;
@@ -185,6 +185,10 @@ a, a:visited {
   transition: padding 0.3s ease-in-out;
   -moz-transition: padding 0.3s ease-in-out;
   -webkit-transition: padding 0.3s ease-in-out;
+}
+
+.logo img{
+  height: 50px;
 }
 
 .site-header.site-header-shrink {
@@ -198,11 +202,11 @@ a, a:visited {
   position: relative;
 }
 .main-nav ul li a {
-  color: #31373a;
+  color: white;
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   padding: 5px 15px;
   display: block;
   -webkit-border-radius: 3px;
@@ -276,7 +280,7 @@ a.menu-toggle-btn i {
 }
 .main_menu li a {
   font-size: 14px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   color: #bfbfbf;
   font-weight: 500;
 }
@@ -343,7 +347,7 @@ a.menu-toggle-btn i {
 .large-button {
   padding: 15px 20px;
   font-size: 12px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 800;
   -webkit-border-radius: 2px;
@@ -361,7 +365,7 @@ a.large-button.white-color {
 .main-button {
   padding: 12px 15px;
   font-size: 12px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   -webkit-border-radius: 2px;
@@ -1285,7 +1289,7 @@ blockquote {
   background-color: #f1f4f5;
   padding: 100px 0;
   color: #aaaaaa;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .footer-menu li {
