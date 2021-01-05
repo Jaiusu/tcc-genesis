@@ -464,7 +464,7 @@ input.mainBtn {
 }
 
 #portfolio {
-  background-image: url("../images/includes/portfolio.jpg");
+  background-image: url("../images/includes/eng.jpg");
 }
 
 #portfolioId {
@@ -603,10 +603,10 @@ blockquote {
   display: inline;
   margin-right: 20px;
   cursor: pointer;
-  color: #31373a;
+  color: #919191;
 }
 #filters li:after {
-  content: '/';
+  content: '';
   color: #c3c3c3;
   margin-left: 20px;
 }
