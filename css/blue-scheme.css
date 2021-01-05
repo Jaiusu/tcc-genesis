@@ -309,8 +309,17 @@ a.menu-toggle-btn i {
 /*------------------------------------------------------
 	General Styling 
 --------------------------------------------------------*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+.service-title {
+  color: white;
+}
+
 .light-content {
-  background-color: white;
+  background-color: #1a1a1a;
   width: 100%;
 }
 
@@ -324,6 +333,10 @@ a.menu-toggle-btn i {
 }
 .dark-content .section-header .section-desc {
   color: #939ea4;
+}
+
+.section-title{
+  color: white;
 }
 
 .section-header {
@@ -447,7 +460,7 @@ input.mainBtn {
 }
 
 #homeIntro {
-  background-image: url("../images/includes/homeintro.jpg");
+  background-image: url("../images/includes/homeintro2.jpg");
 }
 
 #portfolio {
@@ -459,7 +472,7 @@ input.mainBtn {
 }
 
 #blogPosts {
-  background-image: url("../images/includes/blogPosts.jpg");
+  background-image: url("../images/includes/assis.jpg");
 }
 
 #blog {
@@ -869,7 +882,7 @@ blockquote {
 	Testimonials Styling 
 --------------------------------------------------------*/
 .testimonials-widget {
-  background-color: #f1f4f5;
+  background-color: #242424;
   padding: 80px 0;
 }
 
@@ -927,7 +940,7 @@ blockquote {
   position: absolute;
   bottom: 0;
   right: 0;
-  background-color: white;
+  background-color: #333333;
   padding: 5px 10px;
   font-size: 14px;
 }
@@ -937,6 +950,7 @@ blockquote {
   font-weight: 500;
   margin-top: 25px;
   display: block;
+  color: whitesmoke;
 }
 
 .thumb-post {
@@ -1286,7 +1300,7 @@ blockquote {
 }
 
 .site-footer {
-  background-color: #f1f4f5;
+  background-color: #0e0e0e;
   padding: 100px 0;
   color: #aaaaaa;
   font-family: 'Ubuntu', sans-serif;
