@@ -480,7 +480,7 @@ input.mainBtn {
 }
 
 #blogId {
-  background-image: url("../images/includes/blogId.jpg");
+  background-image: url("../images/includes/projs.jpg");
   background-attachment: inherit;
 }
 
@@ -546,7 +546,7 @@ input.mainBtn {
 blockquote {
   margin: 30px 0;
   display: block;
-  color: #aaaaaa;
+  color: #a5d1ee;
 }
 
 /*------------------------------------------------------
@@ -857,6 +857,10 @@ blockquote {
   margin: 100px 0 60px 0;
 }
 
+.flexslider {
+  width: 100%;
+}
+
 .flex-direction-nav a {
   width: 40px;
   height: 44px;
@@ -1010,13 +1014,12 @@ blockquote {
 .post-blog {
   margin-bottom: 60px;
   padding-bottom: 40px;
-  border-bottom: 1px solid #dce4e6;
 }
 .post-blog .blog-image {
   overflow: hidden;
   margin-bottom: 20px;
 }
-.post-blog .blog-image img {
+.post-blog .blog-image .flexslides .slides {
   width: 100%;
   height: auto;
 }
@@ -1036,9 +1039,10 @@ blockquote {
   font-size: 24px;
   line-height: 30px;
   font-weight: 600;
+  color: #ffffff;
 }
 .post-blog .blog-content h3 a {
-  color: #31373a;
+  color: #96b9ca;
 }
 .post-blog .blog-content h3 a:hover {
   color: #00a8d6;
@@ -1064,7 +1068,7 @@ blockquote {
 }
 
 #blog-author {
-  border-bottom: 1px solid #dce4e6;
+  border-bottom: 1px solid #838383;
   padding-bottom: 20px;
 }
 #blog-author .blog-author-img {
@@ -1085,6 +1089,9 @@ blockquote {
   font-size: 18px;
   margin: 0 0 7px 0;
 }
+.author-name{
+  color: white;
+}
 #blog-author .blog-author-info h4.author-name a {
   color: #31373a;
 }
@@ -1099,11 +1106,9 @@ blockquote {
 #blog-comments .media {
   display: block;
   margin-top: 30px;
-  border-bottom: 1px solid #dce4e6;
 }
 #blog-comments .media .media {
   padding-top: 30px;
-  border-top: 1px solid #dce4e6;
   border-bottom: 0;
 }
 #blog-comments .media-object {
@@ -1171,21 +1176,25 @@ blockquote {
   margin-top: 100px;
   margin-bottom: 100px;
 }
-
 .sidebar-widget {
   margin-bottom: 60px;
 }
-
+.widget-text {
+  margin-top: -25px;
+  font-size: 15px;
+  color: #adadad;
+  line-height: normal;
+}
 .widget-title {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 800;
   margin: 0 0 30px 0;
+  color: #fcfcfc;
 }
 
 .last-post {
   padding-bottom: 20px;
   margin-bottom: 20px;
-  border-bottom: 1px solid #dce4e6;
 }
 .last-post .thumb {
   overflow: hidden;
@@ -1197,6 +1206,7 @@ blockquote {
 .last-post .content {
   overflow: hidden;
 }
+.last-post
 .last-post .content span {
   color: #aaaaaa;
   font-size: 14px;
@@ -1209,7 +1219,7 @@ blockquote {
   margin: 0;
 }
 .last-post .content h4 a {
-  color: #31373a;
+  color: #71b1b9;
 }
 .last-post .content h4 a:hover {
   color: #00a8d6;
