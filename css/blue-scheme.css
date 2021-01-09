@@ -993,6 +993,12 @@ blockquote {
 .latest-posts .blog-post-content {
   overflow: hidden;
 }
+.blog-post-comments h3{
+  color: white;
+}
+.comment-form h3{
+  color: white;
+}
 .latest-posts h4.post-title {
   margin: 0 0 10px 25px;
   font-size: 22px;
@@ -1398,4 +1404,7 @@ blockquote {
     width: 100%;
     height: auto;
   }
+}
+.media-heading h4{
+  color: white;
 }
