@@ -1415,4 +1415,9 @@ blockquote {
   margin-top: 30px;
   width: 46%;
   height: 60px;
+  font-weight: bold;
+}
+
+.formulario{
+  margin-left: 20%;
 }
