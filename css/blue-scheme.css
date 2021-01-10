@@ -468,7 +468,7 @@ input.mainBtn {
 }
 
 #portfolioId {
-  background-image: url("../images/includes/portfolioId.jpg");
+  background-image: url("../images/includes/projs.jpg");
 }
 
 #blogPosts {
@@ -485,7 +485,7 @@ input.mainBtn {
 }
 
 #contact {
-  background-image: url("../images/includes/contact.jpg");
+  background-image: url("../images/includes/contato.jpg");
 }
 
 .parallax {
@@ -816,10 +816,11 @@ blockquote {
   font-size: 24px;
   margin: 0 0 35px 0;
   line-height: 36px;
+  color: #ffffff;
 }
 .project-single .subtitle {
   font-size: 14px;
-  color: #aaaaaa;
+  color: #cecece;
 }
 .project-single .description {
   margin-bottom: 40px;
@@ -829,7 +830,7 @@ blockquote {
   margin-bottom: 15px;
 }
 .project-single .meta-post li span {
-  color: #31373a;
+  color: #118ef5;
   margin-right: 10px;
 }
 .project-single .meta-post li a {
@@ -848,7 +849,7 @@ blockquote {
 }
 
 .static-info-project {
-  background-color: #f1f4f5;
+  background-color: #222222;
   padding: 80px 0;
   text-align: center;
 }
@@ -1270,8 +1271,9 @@ blockquote {
 /*------------------------------------------------------
 	Contact Page Styling 
 --------------------------------------------------------*/
-.contact-wrapper h3 {
+.contact-wrapper h2 {
   margin: 0 0 30px 0;
+  color: #ffffff;
 }
 
 .contact-map {
@@ -1282,7 +1284,6 @@ blockquote {
   margin-top: 50px;
   margin-bottom: 100px;
   padding-top: 50px;
-  border-top: 1px solid #dce4e6;
 }
 .contact-form h3 {
   margin: 0 0 40px 0;
@@ -1407,4 +1408,11 @@ blockquote {
 }
 .media-heading h4{
   color: white;
+}
+
+.btn-contact{
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 46%;
+  height: 60px;
 }
