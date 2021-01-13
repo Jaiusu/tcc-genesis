@@ -51,8 +51,6 @@ if(isset($_GET["user"])){
     <script src="js/jquery-1.10.2.min.js"></script>
     <script src="js/jquery-migrate-1.2.1.min.js"></script>
 
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
-
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="192x192" href="images/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
