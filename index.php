@@ -58,7 +58,7 @@ if(isset($_GET["user"])){
 <body>
     <div class="responsive_menu">
         <ul class="main_menu">
-            <li><a href="index.html">Início</a></li>
+            <li><a href="index.php">Início</a></li>
             <li><a href="portfolio.html">Projetos</a></li>
             <li><a href="contact.html">Contato</a></li>
             <li><a href="login.php">Login</a></li>
@@ -85,7 +85,7 @@ if(isset($_GET["user"])){
 
                         <nav class="main-nav visible-md visible-lg">
                             <ul class="sf-menu">
-                                <li class="active"><a href="index.html">Início</a></li>
+                                <li class="active"><a href="index.php">Início</a></li>
                                 <li><a href="portfolio.html">Projetos</a></li>
                                 <li><a href="contact.html">Contato</a></li>
                                 <li><a href="login.php">Login</a></li>

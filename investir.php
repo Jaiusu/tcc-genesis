@@ -47,10 +47,10 @@ if($_SESSION['login'] != 1){
 
 	<div class="responsive_menu">
         <ul class="main_menu">
-            <li><a href="index.html">Início</a></li>
+            <li><a href="index.php">Início</a></li>
             <li><a href="portfolio.html">Projetos</a></li>
 			<li><a href="contact.html">Contato</a></li>
-			<li><a href="login.html">Login</a></li>
+			<li><a href="login.php">Login</a></li>
         </ul> <!-- /.main_menu -->
     </div> <!-- /.responsive_menu -->
 
@@ -73,7 +73,7 @@ if($_SESSION['login'] != 1){
 							<ul class="sf-menu">
 								<li><a href="index.php">Início</a></li>
 								<li><a href="portfolio.html">Projetos</a></li>
-								<li class="active"><a href="contact.php">Contato</a></li>
+								<li class="active"><a href="contact.html">Contato</a></li>
 								<li><a href="login.php">Login</a></li>
 							</ul> <!-- /.sf-menu -->
 						</nav> <!-- /.main-nav -->

@@ -71,10 +71,10 @@ if($_SESSION['login'] != 1){
 
 						<nav class="main-nav visible-md visible-lg">
 							<ul class="sf-menu">
-								<li><a href="index.html">Início</a></li>
+								<li><a href="index.php">Início</a></li>
 								<li><a href="portfolio.html">Projetos</a></li>
 								<li class="active"><a href="contact.html">Contato</a></li>
-								<li><a href="login.html">Login</a></li>
+								<li><a href="login.php">Login</a></li>
 							</ul> <!-- /.sf-menu -->
 						</nav> <!-- /.main-nav -->
 
