@@ -41,6 +41,16 @@ if($_SESSION['login'] != 1){
 
 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="192x192" href="images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="manifest" href="js/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="images/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
 </head>
 <body>
 
@@ -62,7 +72,7 @@ if($_SESSION['login'] != 1){
 				<div class="col-md-12">
 
 					<div class="pull-left logo">
-						<a href="index.html">
+						<a href="index.php">
 							<img src="images/logo-2.png" alt="Medigo">
 						</a>
 					</div>	<!-- /.logo -->
