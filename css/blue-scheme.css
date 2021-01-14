@@ -683,10 +683,11 @@ blockquote {
 .portfolio-holder .item {
   margin: 0 1px 40px 1px;
 }
-.portfolio-holder .item img {
+.portfolio-holder .item .thumb-post img {
   display: block;
-  width: 100%;
-  height: auto;
+  width: 400px;
+  height: 260px;
+  object-fit: cover;
 }
 
 .portfolio-post {
@@ -699,6 +700,7 @@ blockquote {
   position: relative;
   overflow: hidden;
 }
+
 .thumb-post .overlay {
   position: absolute;
   top: 0;
@@ -962,8 +964,9 @@ blockquote {
   height: auto;
 }
 .thumb-post img {
-  width: 100%;
-  height: auto;
+  width: 400px;
+  height: 280px;
+  object-fit: cover;
 }
 
 /*------------------------------------------------------
