@@ -396,12 +396,12 @@ if(isset($_GET["user"])){
                     <div class="col-md-4 col-sm-4">
                         <div class="team-member">
                             <div class="thumb-post">
-                                <img src="images/includes/member1.jpg" alt="">
-                                <span class="member-role">Marketing Manager</span>
+                                <img src="images/includes/xiron.jpeg" alt="">
+                                <span class="member-role">Data Manager</span>
                             </div>
                             <div class="member-content">
-                                <h4 class="member-name">Amy Groovy</h4>
-                                <p>Duis vitae consequat neque. Nulla pharetra eleifend nulla. </p>
+                                <h4 class="member-name">Rayron Ribeiro</h4>
+                                <p>Responsável por coletar e gerenciar dados. </p>
                             </div>
                         </div>
                         <!-- /.team-member -->
@@ -411,12 +411,12 @@ if(isset($_GET["user"])){
                     <div class="col-md-4 col-sm-4">
                         <div class="team-member">
                             <div class="thumb-post">
-                                <img src="images/includes/member2.jpg" alt="">
-                                <span class="member-role">Web Developer</span>
+                                <img src="images/includes/jaiusu.jpg" alt="">
+                                <span class="member-role">Front-End</span>
                             </div>
                             <div class="member-content">
-                                <h4 class="member-name">Candy Sharp</h4>
-                                <p>Duis vitae consequat neque. Nulla pharetra eleifend nulla. </p>
+                                <h4 class="member-name">Jailson Lucas</h4>
+                                <p>Responsável por desenvolver a interface do sistema.</p>
                             </div>
                         </div>
                         <!-- /.team-member -->
@@ -426,12 +426,12 @@ if(isset($_GET["user"])){
                     <div class="col-md-4 col-sm-4">
                         <div class="team-member">
                             <div class="thumb-post">
-                                <img src="images/includes/member3.jpg" alt="">
-                                <span class="member-role">Graphic Designer</span>
+                                <img src="images/includes/jon.jpeg" alt="">
+                                <span class="member-role">Back-End</span>
                             </div>
                             <div class="member-content">
-                                <h4 class="member-name">Linda Master</h4>
-                                <p>Duis vitae consequat neque. Nulla pharetra eleifend nulla. </p>
+                                <h4 class="member-name">Jhon Henrique</h4>
+                                <p>Responsável por desenvolver o banco de dados e integrar à interface.</p>
                             </div>
                         </div>
                         <!-- /.team-member -->
