@@ -379,8 +379,8 @@ if(isset($_GET["user"])){
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-header">
-                        <h2 class="section-title">Meet our happy staff</h2>
-                        <p class="section-desc">Medigo is the automated way to keep track of what everyone is working on.</p>
+                        <h2 class="section-title">Nossa equipe</h2>
+                        <p class="section-desc">Aqui estão os membros da nossa equipe e principais funções.</p>
                     </div>
                     <!-- /.section-header -->
                 </div>
