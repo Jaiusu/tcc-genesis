@@ -332,6 +332,7 @@ if(isset($_GET["user"])){
                                 </div>
                             </div>
                         </div>
+                        <img src="images/includes/escritaImgs/escrita4.jpg" alt="Masonry Gallery">
             </div>
             <!-- /.item -->
         </div>
@@ -453,7 +454,7 @@ if(isset($_GET["user"])){
                     <div class="col-md-12">
                         <div class="section-header">
                             <h2 class="section-title">Faça parte dessa crescente comunidade!</h2>
-                            <h3 class="section-desc" style="color: white; line-height: 30px">A Genesis é uma comunidade onde você pode explorar projetos, invistir ou publicar sua própria criação. <br><br> Você quer conhecer novos projetos e ter novas inspirações? Deseja investir em um projeto revolucionário? Você tem um projeto e quer mostrar para o mundo? <a href="register.php">Cadastre-se</a> gratuitamente agora.</h3>
+                            <h3 class="section-desc" style="color: white; line-height: 30px">A Genesis é uma comunidade onde você pode explorar projetos, investir ou publicar sua própria criação. <br><br> Você quer conhecer novos projetos e ter novas inspirações? Deseja investir em um projeto revolucionário? Você tem um projeto e quer mostrar para o mundo? <a href="register.php">Cadastre-se</a> gratuitamente agora.</h3>
                         </div>
                         <!-- /.section-header -->
                     </div>
